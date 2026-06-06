@@ -47,8 +47,8 @@ A REST API for managing personal notes with search and sorting capabilities. Bui
 | GET | `/` | Get all notes | `?q=search&sort=field` |
 | POST | `/` | Create a new note | - |
 | GET | `/:id` | Get note by ID | - |
-| PATCH | `/:id` | Update note | - |
-| DELETE | `/:id` | Delete note | - |
+| PATCH | `/:id` | Update a note | - |
+| DELETE | `/:id` | Delete a note | - |
 
 ## 🚀 Getting Started
 
