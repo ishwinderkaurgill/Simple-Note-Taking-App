@@ -3,8 +3,11 @@
 # 📝 Notes Manager API
 
 ![Node.js](https://img.shields.io/badge/Node.js-18.x-green)
+
 ![Express](https://img.shields.io/badge/Express-4.x-blue)
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-6.x-brightgreen)
+
 ![Mongoose](https://img.shields.io/badge/Mongoose-7.x-red)
 
 A REST API for managing personal notes with search and sorting capabilities. Built with Node.js, Express, MongoDB, and Mongoose.
